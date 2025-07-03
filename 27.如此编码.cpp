@@ -1,7 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
-// �Ҵ�����ǰ����һ�ζδ����ң�����������Ǵ����߼�����������С�������� 
+// 找错：从前往后一段段代码找，是输入错还是处理逻辑错？不断缩小错误区间 
+// 对方程取模没有提示真想不到
 int main(){
 	ios::sync_with_stdio(false);
     cin.tie(nullptr);
